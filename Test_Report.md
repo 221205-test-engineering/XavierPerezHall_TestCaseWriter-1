@@ -16,6 +16,7 @@ Defect Report
 |DEF1   | For TC-2, error message says "wrong password" | low | low | login with wrong username and password
 |DEF2   | For TC-3, error message says "wrong username", when the password was incorrect | low| low | login with correct username and wrong password|
 |DEF3   | For TC-4, error message says "wrong password", when the username was incorrect | low | low | login with wrong username and correct password|
+
 Requirements Traceability Matrix
 |Requirement| Test Cases | Status | Defects |
 |-----------|------------|--------|---------|
